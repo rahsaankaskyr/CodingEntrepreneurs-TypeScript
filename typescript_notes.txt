@@ -1,3 +1,6 @@
+https://www.codingforentrepreneurs.com/blog/typescript-setup-guide/
+
+
 install with npm
 
 	$ npm install -g typescript
@@ -5,3 +8,12 @@ install with npm
 	$ npm install -g ts-loader // links webpack to complie typescript
 	$ npm install -g jquery  // to use jquery in your project
 	$ npm install -g http-server // to have a local server run
+
+
+
+run server 
+		 $ http-server   
+		 or
+		 $ http-server -c-1 (Using the flag -c-1 makes the browser never cache the files.)
+
+ 

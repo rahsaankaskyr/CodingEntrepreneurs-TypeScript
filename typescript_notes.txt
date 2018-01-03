@@ -30,6 +30,7 @@ webpack 	- run & compile
 				$ webpack --watch
 			- As minified
 				$ webpack --watch --optimize-minimize
-
+			- npm link typescript 
+					- webpack --watch
 
  

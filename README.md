@@ -1,6 +1,4 @@
-create CodingEntrepreneurs-TypeScript - 
-	- commit
-
-sudo npm i -g npm-upgrade
+CodingEntrepreneurs.com - TypeScript course 
 
 
+https://www.codingforentrepreneurs.com/blog/typescript-setup-guide/

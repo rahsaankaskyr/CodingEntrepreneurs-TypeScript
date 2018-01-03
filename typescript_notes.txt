@@ -1,5 +1,6 @@
 https://www.codingforentrepreneurs.com/blog/typescript-setup-guide/
 
+sudo npm i -g npm-upgrade
 
 install with npm
 

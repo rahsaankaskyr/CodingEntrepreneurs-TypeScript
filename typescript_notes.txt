@@ -1,0 +1,7 @@
+install with npm
+
+	$ npm install -g typescript
+	$ npm install -g webpack
+	$ npm install -g ts-loader // links webpack to complie typescript
+	$ npm install -g jquery  // to use jquery in your project
+	$ npm install -g http-server // to have a local server run

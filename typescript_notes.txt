@@ -10,10 +10,17 @@ install with npm
 	$ npm install -g http-server // to have a local server run
 
 
+run typescript compiler // dist dir becomes javascript
+		 	$ tsc 
+ 			$ tsc --watch
+
+index.html file
+			<script src='/dist/main.js'></script>
+
 
 run server 
-		 $ http-server   
-		 or
-		 $ http-server -c-1 (Using the flag -c-1 makes the browser never cache the files.)
+		 	$ http-server   
+		 	or
+		 	$ http-server -c-1 (Using the flag -c-1 makes the browser never cache the files.)
 
  

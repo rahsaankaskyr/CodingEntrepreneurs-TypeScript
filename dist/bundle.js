@@ -70,7 +70,7 @@
 "use strict";
 
 exports.__esModule = true;
-var getcoffee_1 = __webpack_require__(1);
+var getcoffee_ts_1 = __webpack_require__(2);
 var SweetSweetClass = (function () {
     function SweetSweetClass() {
         console.log("Even sweeter");
@@ -78,11 +78,12 @@ var SweetSweetClass = (function () {
     return SweetSweetClass;
 }());
 var basil = new SweetSweetClass();
-var coffee = new getcoffee_1.MustHaveCoffee();
+var coffee = new getcoffee_ts_1.MustHaveCoffee();
 
 
 /***/ }),
-/* 1 */
+/* 1 */,
+/* 2 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";

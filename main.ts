@@ -9,7 +9,7 @@
 // https://www.typescriptlang.org/docs/handbook/variable-declarations.html
 
 
-  import {MustHaveCoffee} from "./getcoffee"
+  import {MustHaveCoffee} from "./src/coffee/getcoffee.ts"
 
  class SweetSweetClass {
      constructor() { 
